@@ -18,14 +18,10 @@
 #sudo apt-get install git
 #git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 #vim +PluginInstall +qall
-#wget https://raw.githubusercontent.com/savorywatt/seliftod/master/tmux.conf
+#wget https://raw.githubusercontent.com/savorywatt/seliftod/master/tmux
 #mv tmux.conf .tmux.conf
-#wget https://raw.githubusercontent.com/savorywatt/seliftod/master/gitconfig
-#mv gitconfig .gitconfig
 #wget https://raw.githubusercontent.com/savorywatt/seliftod/master/gitignore
 #mv gitignore .gitignore
-#wget https://raw.githubusercontent.com/savorywatt/seliftod/master/profile
-#mv profile .gitignore
 #sudo apt-get install tmux
 
 ## Python related
