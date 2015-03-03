@@ -1,0 +1,9 @@
+*.pyc
+*.coverage
+*.swp
+*.swo
+*.ropeproject
+*.out
+*.db
+*.pem
+*.xml
