@@ -57,6 +57,8 @@ Bundle 'guns/vim-clojure-static'
 Bundle 'vim-scripts/paredit.vim'
 Bundle 'vim-scripts/VimClojure'
 
+" RUST
+Bundle 'wting/rust.vim'
 
 " GOLANG
 "Bundle 'dgryski/vim-godef'

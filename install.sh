@@ -14,11 +14,14 @@
 #rm google-chrome-stable_current_amd64.deb
 
 ## Setup dev environment
+
 #wget https://raw.githubusercontent.com/savorywatt/seliftod/master/bashrc
-#mv bashrc .bashrc
+#mv bashrc ~/.bashrc
 #source .bashrc
+
 #wget https://raw.githubusercontent.com/savorywatt/seliftod/master/vimrc
 #mv vimrc .vimrc
+
 ## GIT
 #sudo apt-get install git
 #wget https://raw.githubusercontent.com/savorywatt/seliftod/master/gitignore
