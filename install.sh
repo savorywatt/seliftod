@@ -31,12 +31,13 @@
 #git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 #sudo apt-get install vim
 #wget https://raw.githubusercontent.com/tomasr/molokai/master/colors/molokai.vim
+#mkdir ~/.vim/colors
 #mv molokai.vim ~/.vim/colors
 #vim +PluginInstall +qall
 
 #TMUX
 #wget https://raw.githubusercontent.com/savorywatt/seliftod/master/tmux
-#mv tmux.conf .tmux.conf
+#mv tmux .tmux.conf
 #sudo apt-get install tmux
 
 ## Python related
