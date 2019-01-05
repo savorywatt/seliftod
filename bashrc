@@ -28,9 +28,6 @@ alias tmux="TERM=screen-256color-bce tmux"
 #export PATH=$PATH:$PYTHONSDKPATH
 #export PYTHONPATH=$PYTHONPATH:$PYTHONSDKPATH
 
-# Bigsky
-export MAVEN_OPTS="-Xmx4096m -Xss1024m -XX:MaxPermSize=128m"
-
 # Git 
 parse_git_branch() {
 	  git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/(\1)/'
@@ -152,7 +149,7 @@ fi
 source /etc/bash_completion.d/docker.io
 
 # The next line enables bash completion for gcloud.
-source '/home/ross/google-cloud-sdk/completion.bash.inc'
+#source '/home/ross/google-cloud-sdk/completion.bash.inc'
 
 # The next line updates PATH for the Google Cloud SDK.
-source '/home/ross/google-cloud-sdk/path.bash.inc'
+#source '/home/ross/google-cloud-sdk/path.bash.inc'
